@@ -1,0 +1,192 @@
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.exe
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.deps.json
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.runtimeconfig.json
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.pdb
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.AssemblyReference.cache
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.baml
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.g.cs
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\App.g.cs
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.cache
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.lref
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.g.resources
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfoInputs.cache
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfo.cs
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CoreCompileInputs.cache
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CopyComplete
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.dll
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\refint\LAB2.dll
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.pdb
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.genruntimeconfig.cache
+D:\Project\LAB2\LAB2\obj\Debug\net7.0-windows\ref\LAB2.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Project\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.exe
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.deps.json
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.runtimeconfig.json
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.pdb
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.AssemblyReference.cache
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.baml
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.g.cs
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\App.g.cs
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.cache
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.lref
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.baml
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.g.resources
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfoInputs.cache
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfo.cs
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CoreCompileInputs.cache
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CopyComplete
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.dll
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\refint\LAB2.dll
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.pdb
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.genruntimeconfig.cache
+E:\LAB2\LAB2\obj\Debug\net7.0-windows\ref\LAB2.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.exe
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.deps.json
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.runtimeconfig.json
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\LAB2.pdb
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.AssemblyReference.cache
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.baml
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\UserWindow.g.cs
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.cache
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2_MarkupCompile.lref
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.g.resources
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfoInputs.cache
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.AssemblyInfo.cs
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.csproj.CopyComplete
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\refint\LAB2.dll
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.pdb
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\LAB2.genruntimeconfig.cache
+C:\Users\Случак Дмитрий\Desktop\LAB2\LAB2\obj\Debug\net7.0-windows\ref\LAB2.dll

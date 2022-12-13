@@ -63,7 +63,7 @@ namespace LAB2
         {
             // получаем выделенный объект
             User? user = usersList.SelectedItem as User;
-            // если ни одного объекта не выделено, выходим
+            // если ни одного объекта не выделено, выходи
             if (user is null) return;
 
             UserWindow UserWindow = new UserWindow(new User
